@@ -6,7 +6,6 @@ Este repositório contém um script para realizar backups diários de um banco d
 
 - PostgreSQL instalado e configurado
 
-- Python instalado (se o script estiver em Python)
 - Acesso de administrador para configurar tarefas agendadas no Windows
 
 
